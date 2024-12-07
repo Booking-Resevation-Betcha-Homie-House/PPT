@@ -33,11 +33,17 @@
 | **Property Navigation**                                                                                               |
 | - Guests sometimes struggle to find the property location at certain sites.                                            |
 
+<<<<<<< HEAD
 | **Objectives**                                                                                                         |
 |                                                                                                                        |
 | - Design and develop a website that provides all necessary customer information, enabling self-inquiry.                |
 | - Improve booking management efficiency by automating the booking process.                                             |
 | - Integrate a mapping tool for viewing and redirecting users to Google Maps.                                           |
+=======
+## Standard Operating Procedures (SOP)
+### Inquiry
+- Manual sending of calendar for every inquiry.
+>>>>>>> parent of 997fd34 (Update README.md)
 
 | **Scope**                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------|
