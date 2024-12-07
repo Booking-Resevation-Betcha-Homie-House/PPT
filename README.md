@@ -1,5 +1,5 @@
 # PPT Contents - MiniCapstone
-
+```
 ## Introduction
 Short-term rental businesses and alternative accommodation sectors have been growing significantly. These businesses cater to people seeking home-away-from-home experiences, offering rental apartments, rooms, and unique lodging options for short stays. Technological integration into the hospitality industry has revolutionized the booking process, accelerating operations (FHA-HoReCa, 2023).
 
@@ -16,7 +16,8 @@ Short-term rental businesses and alternative accommodation sectors have been gro
     - **2 in Laguna**
     - **3 properties under construction**
 - **Employee roles**: No specific number of employees; includes cleaners, maintenance workers, and co-managers ("katiwala").
-
+```
+```
 ## Statement of the Problem (SOP)
 ### Inquiry
 - Manual sending of calendar for every inquiry.
@@ -31,7 +32,8 @@ Short-term rental businesses and alternative accommodation sectors have been gro
 - Design and develop a website that provides all necessary customer information, enabling self-inquiry.
 - Improve booking management efficiency by automating the booking process.
 - Integrate a mapping tool for viewing and redirecting users to Google Maps.
-
+```
+```
 ## Scope
 
 ### User Levels
@@ -61,7 +63,8 @@ Short-term rental businesses and alternative accommodation sectors have been gro
 
 ### Administrator Capabilities
 - Similar to Super Administrators but without access to **Admin Management** and **Audit Trails**.
-
+```
+```
 ### Customer Capabilities
 - **Homepage**
 - **Menu**
@@ -78,3 +81,4 @@ Short-term rental businesses and alternative accommodation sectors have been gro
 ## Limitations
 - **Reliance on the internet**
 - **Language barriers**
+```
