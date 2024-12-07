@@ -8,7 +8,7 @@
 | accelerating operations (FHA-HoReCa, 2023).                                                                             |
 
 | **Historical Background**                                                                                               |
-|-------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                          |
 | - **Nature of business**: Short-term Rental Business (Staycations)                                                     |
 | - **Name of the company**: Betcha by Homie House                                                                        |
 | - **Founder / Owner**: Ms. Princess Sarmiento                                                                          |
