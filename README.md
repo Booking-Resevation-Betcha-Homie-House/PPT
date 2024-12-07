@@ -6,9 +6,8 @@
 | cater to people seeking home-away-from-home experiences, offering rental apartments, rooms, and unique lodging options  |
 | for short stays. Technological integration into the hospitality industry has revolutionized the booking process,        |
 | accelerating operations (FHA-HoReCa, 2023).                                                                             |
-
 | **Historical Background**                                                                                               |
-|                                                                                                                          |
+|                                                                                                                         |
 | - **Nature of business**: Short-term Rental Business (Staycations)                                                     |
 | - **Name of the company**: Betcha by Homie House                                                                        |
 | - **Founder / Owner**: Ms. Princess Sarmiento                                                                          |
