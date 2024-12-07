@@ -35,7 +35,7 @@
 | - Guests sometimes struggle to find the property location at certain sites.                                            |
 
 | **Objectives**                                                                                                         |
-|-------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                        |
 | - Design and develop a website that provides all necessary customer information, enabling self-inquiry.                |
 | - Improve booking management efficiency by automating the booking process.                                             |
 | - Integrate a mapping tool for viewing and redirecting users to Google Maps.                                           |
@@ -57,7 +57,7 @@
 | - **Messages**                                                                                                         |
 
 | **Super Administrator Capabilities**                                                                                   |
-|-------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                        |
 | - **Dashboard**                                                                                                        |
 | - **Navigation Bar**                                                                                                   |
 | - **Profile**                                                                                                          |
@@ -69,7 +69,7 @@
 | - **Transactions**                                                                                                     |
 
 | **Administrator Capabilities**                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                        |
 | Similar to Super Administrators but without access to **Admin Management** and **Audit Trails**.                       |
 
 | **Customer Capabilities**                                                                                             |
@@ -87,6 +87,6 @@
 | - **Payment**                                                                                                         |
 
 | **Limitations**                                                                                                       |
-|-------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                        |
 | - **Reliance on the internet**                                                                                        |
 | - **Language barriers**                                                                                               |
