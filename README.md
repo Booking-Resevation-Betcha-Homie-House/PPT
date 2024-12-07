@@ -17,7 +17,7 @@ Short-term rental businesses and alternative accommodation sectors have been gro
     - **3 properties under construction**
 - **Employee roles**: No specific number of employees; includes cleaners, maintenance workers, and co-managers ("katiwala").
 
-## Standard Operating Procedures (SOP)
+## Statement of the Problem (SOP)
 ### Inquiry
 - Manual sending of calendar for every inquiry.
 
